@@ -39,7 +39,7 @@ public class LoginTests {
 
         driver.get("http://secure.smartbearsoftware.com/samples/testcomplete12/WebOrders/login.aspx");
         driver.findElement(By.id("ctl00_MainContent_username")).sendKeys("Tester");
-       
+       fsjgzffxhkgjxffgmxzjg
     }
 
 
