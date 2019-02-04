@@ -42,6 +42,14 @@ public class LoginTests {
        fsjgzffxhkgjxffgmxzjg
     }
 
+    @Test
+    public void tearDown(){
+
+        driver.quit();
+
+    }
+
+
 
 
 
