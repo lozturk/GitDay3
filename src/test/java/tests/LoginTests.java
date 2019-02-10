@@ -18,6 +18,8 @@ import java.util.concurrent.TimeUnit;
 public class LoginTests {
 
     WebDriver driver;
+    // I will use page object model
+    //it makes the life easy for the tester.
 
     @BeforeMethod
     public void setUp() {
